@@ -1,5 +1,14 @@
 # @uploadthing/react
 
+## 4.1.2
+
+### Patch Changes
+
+- [#149](https://github.com/pingdotgg/uploadthing/pull/149)
+  [`c58b19e`](https://github.com/pingdotgg/uploadthing/commit/c58b19e0367598ec05d928e9526b8092f5a86c46)
+  Thanks [@markflorkowski](https://github.com/markflorkowski)! - [fix] don't
+  prefetch component data on server
+
 ## 4.1.1
 
 ### Patch Changes
